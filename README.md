@@ -1,1 +1,1 @@
-# Exercício realizados para testar meus conhecimentos
+# Exercícios realizados para testar meus conhecimentos
